@@ -43,10 +43,6 @@ python yolo.py --image images/ipl.jpeg
 
 You can use any image you want after the `--image` argument. Make sure you give the right path.
 
-Press **q** to quit the window of the image showing object detection
-
-Feel free to star ⭐ this repo if you find this useful and visit my [YouTube](https://www.youtube.com/channel/UCaOiKrS-R1Nuya0pxjQ68fA) channel if you have time.
-
 Thanks!
 
 "# traffic_sign_detection-" 
@@ -56,5 +52,7 @@ Thanks!
 
 
 Some Output Screenshots:
-![image](https://user-images.githubusercontent.com/83199115/194767663-3a6f595d-f322-4c5e-85d0-ce3cf7745268.png)
 
+![image](https://user-images.githubusercontent.com/83199115/194767759-2a95b33f-6a30-4389-bbf3-6d66473dd823.png)
+![image](https://user-images.githubusercontent.com/83199115/194767791-80460c02-f7ae-480d-9ede-c7219698aee1.png)
+![image](https://user-images.githubusercontent.com/83199115/194767812-56271901-3588-49a7-a3ba-a3e85ce4b42b.png)
